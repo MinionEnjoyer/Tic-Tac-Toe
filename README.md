@@ -243,7 +243,8 @@ Raspberry Pi GPIO (3.3V)
 
 ## Credits
 
-Hardware design and soldering skills: Thanks to Mache Creeger
+A big thanks to my Dad, Mache Creeger
+The Cascadia College Students and Teachers
 
 ## License
 
