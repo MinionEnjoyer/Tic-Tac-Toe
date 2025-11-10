@@ -243,7 +243,7 @@ Raspberry Pi GPIO (3.3V)
 
 ## Credits
 
-A big thanks to my Dad, Mache Creeger, and to the Cascadia College Students and Teachers
+A big thanks to my Dad, Mache Creeger, and to the Cascadia College Students and Teachers!
 
 ## License
 
