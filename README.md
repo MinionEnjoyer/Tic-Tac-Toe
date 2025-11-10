@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game for Raspberry Pi Zero 2 W
 
-A hardware-based Tic-Tac-Toe game using WS2812B LED matrices, featuring a stunning "TIC TAC TOE" startup animation and player-vs-player gameplay.
+A hardware-based Tic-Tac-Toe game using WS2812B LED matrices, designed for player-vs-player gameplay.
 
 ## Hardware Components
 
