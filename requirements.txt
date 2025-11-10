@@ -1,0 +1,13 @@
+# Python dependencies for Tic-Tac-Toe Raspberry Pi Zero 2 W project
+
+# NeoPixel LED control
+adafruit-circuitpython-neopixel>=6.3.0
+
+# Low-level library for WS281x LEDs
+rpi_ws281x>=5.0.0
+
+# Raspberry Pi GPIO control
+RPi.GPIO>=0.7.1
+
+# Adafruit Blinka - CircuitPython compatibility for Linux/Raspberry Pi
+Adafruit-Blinka>=8.20.0
